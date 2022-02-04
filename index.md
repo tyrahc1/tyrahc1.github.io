@@ -1,8 +1,9 @@
-## Spring 2022: Advanced Applications in Geographic Information Systems
+## Spring 2022: 
+## Advanced Applications in Geographic Information Systems
 
 ---
 
-### Assignments
+### Project Portfolio
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
