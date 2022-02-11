@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The deployed front-end of this repository is accessible at dillonma.github.io. This is the start to my very first portfolio and will be a place to house different projects that I have worked on. 
+The deployed front-end of this repository is accessible at [https://tyrahc1.github.io](https://tyrahc1.github.io). This is the start to my very first portfolio and will be a place to house different projects that I have worked on. 
 
 This setup is based on instructions by [Ivanna Kacewica](https://blog.usejournal.com/@evanca) on how to [Set Up Your Portfolio Website in Less Than 10 Minutes](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd) with Github Pages. The base minimal theme has [excellent documentation](https://github.com/pages-themes/minimal) for customizing.
 
