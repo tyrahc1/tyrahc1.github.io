@@ -13,9 +13,8 @@
 [<img src="Project 2/BIN/2020stormdrains.pdf?raw=true"/>](Project 2/README.md)
 
 ---
-Project 3
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Project 3](Project 3/README.md)
+[<img src="images/dummy_thumbnail.jpg?raw=true"/>](Project 3/README.md)
 ---
 
 ### Projects
