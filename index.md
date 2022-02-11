@@ -6,14 +6,14 @@
 ### Project Portfolio
 
 [Street Flooding in Baltimore City](Project 1/README.md)
+<img src="Project 1/flooding.jpg?raw=true"/>
+
+---
+Project 2
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+Project 3
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
