@@ -1,10 +1,7 @@
-# Title
-What would be a good landing page?
+# Project 1: 
 
-Maybe explain your directory structure?
-
-# Introduction
-What is the **topic**?
+# Increased Street Flooding in Baltimore City
+Climate change is influencing many different factors including changes in precipitation. With more rain, comes more flooding. Flooding is a growing issue in urban environments because
 
 # Data
 Explain what's in your data folder. Where did it come from? What are the **data** and where is the data obtained from (provide links too)?
