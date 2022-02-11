@@ -4,7 +4,7 @@
 Climate change is influencing many different factors including changes in precipitation. With more rain, comes more flooding. Flooding is a growing issue in urban environments because
 
 # Data
-Explain what's in your data folder. Where did it come from? What are the **data** and where is the data obtained from (provide links too)?
+311 data relating to obstructions in storm drains and street flooding reports was obtained from the City of Balimore via [OpenBaltimore](https://data.baltimorecity.gov)
 
 # Processing & Transformations
 Are there any necessary **transformations or subsets** you need to do to the data? Explain your R code or your steps in QGIS.
