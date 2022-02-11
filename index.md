@@ -5,7 +5,7 @@
 
 ### Project Portfolio
 
-[Project 1 Title](/sample_page)
+[Street Flooding in Baltimore City](Project 1/README.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
