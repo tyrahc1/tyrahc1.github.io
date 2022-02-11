@@ -6,7 +6,7 @@
 ### Project Portfolio
 
 [Street Flooding in Baltimore City](Project 1/README.md)
-<img src="Project 1/flooding.jpg?raw=true"/>
+<img src="Project 1/BIN/311 flooding reports by neighborhood.pdf?raw=true"/>
 
 ---
 Project 2
