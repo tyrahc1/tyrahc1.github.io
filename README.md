@@ -1,17 +1,13 @@
-## Developer Portfolio Landing Page Template
+## Tyrah Cobb-Davis
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+This is the start to my very first portfolio and will be a place to house different projects that I have worked on. 
 
-<img src="images/demo.gif?raw=true"/>
+This setup is based on instructions by [Ivanna Kacewica](https://blog.usejournal.com/@evanca) on how to [Set Up Your Portfolio Website in Less Than 10 Minutes](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd) with Github Pages. The base minimal theme has [excellent documentation](https://github.com/pages-themes/minimal) for customizing.
 
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
