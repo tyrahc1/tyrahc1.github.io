@@ -3,6 +3,9 @@
 # Increased Street Flooding in Baltimore City
 Climate change is influencing many different factors including changes in precipitation. With more rain, comes more flooding. Flooding is a growing issue in urban environments because
 
+<img src="Project 1/flooding.jpg?raw=true"/>
+
+
 # Data
 311 data relating to obstructions in storm drains and street flooding reports was obtained from the City of Balimore via [OpenBaltimore](https://data.baltimorecity.gov)
 
