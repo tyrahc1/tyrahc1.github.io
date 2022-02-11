@@ -9,8 +9,8 @@
 <img src="Project 1/BIN/311 flooding reports by neighborhood.pdf?raw=true"/>
 
 ---
-Project 2
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Locating Clogged Storm Drains](Project 2/README.md)
+<img src="Project 2/BIN/2020stormdrains.pdf?raw=true"/>
 
 ---
 Project 3
