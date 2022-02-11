@@ -6,11 +6,11 @@
 ### Project Portfolio
 
 [Street Flooding in Baltimore City](Project 1/README.md)
-<img src="Project 1/BIN/311 flooding reports by neighborhood.pdf?raw=true"/>
+[<img src="Project 1/BIN/311 flooding reports by neighborhood.pdf?raw=true"/>](Project 1/README.md)
 
 ---
 [Locating Clogged Storm Drains](Project 2/README.md)
-<img src="Project 2/BIN/2020stormdrains.pdf?raw=true"/>
+[<img src="Project 2/BIN/2020stormdrains.pdf?raw=true"/>](Project 2/README.md)
 
 ---
 Project 3
