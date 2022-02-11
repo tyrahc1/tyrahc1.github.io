@@ -1,7 +1,7 @@
 # Project 1: 
 
 # Increased Street Flooding in Baltimore City
-Climate change is influencing many different factors including changes in precipitation. With more rain, comes more flooding. Flooding is a growing issue in urban environments because
+Climate change is influencing many different factors including changes in precipitation. With more rain, comes more flooding. Flooding is a growing issue in urban environments because of an increase in impervious surfaces such as roads and buildings and clogged strorm drains which prevent the water from going through the storm drain system.
 
 <img src="Project 1/flooding.jpg?raw=true"/>
 
