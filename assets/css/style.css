@@ -41,5 +41,5 @@ header h1 a {
 
 header h1 a:hover {
  font-size: 1.2em;
- color: "blue";
+ color: "red";
 }
