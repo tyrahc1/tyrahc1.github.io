@@ -14,7 +14,9 @@
 
 ---
 [Project 3](Project 3/README.md)
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](Project 3/README.md)
+[<img src="Project 3/BIN/baltimorebyrace.png?raw=true"/>](Project 3/README.md)
+
+
 ---
 
 ### Projects
