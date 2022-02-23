@@ -13,10 +13,10 @@
 [<img src="Project 2/BIN/2020stormdrains.pdf?raw=true"/>](Project 2/README.md)
 
 ---
-[Project 3](Project 3/README.md)
+[Race and Demographic Info in Baltimore City](Project 3/README.md)
 [<img src="Project 3/BIN/baltimorebyrace.png?raw=true"/>](Project 3/README.md)
 
-[Project 4](Project 4/README.md)
+[Trees in Alaska](Project 4/README.md)
 [<img src="Project 4/BIN/alaska trees.png?raw=true"/>](Project 4/README.md)
 ---
 
