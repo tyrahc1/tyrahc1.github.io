@@ -16,7 +16,7 @@
 [Race and Demographic Info in Baltimore City](Project 3/README.md)
 [<img src="Project 3/BIN/baltimorebyrace.png?raw=true"/>](Project 3/README.md)
 
-[Trees in Alaska](Project 4/README.md)
+[Trees in Alaska](Project 4/README.md) 
 [<img src="Project 4/BIN/alaska trees.png?raw=true"/>](Project 4/README.md)
 ---
 
