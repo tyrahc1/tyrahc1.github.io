@@ -25,8 +25,8 @@
 [<img src="Project 2/BIN/2020stormdrains.pdf?raw=true"/>](Project 2/README.md)
 
 ---
-[Race and Demographic Info in Baltimore City](Project 3/README.md)
-[<img src="Project 3/BIN/baltimorebyrace.png?raw=true"/>](Project 3/README.md)
+[Race and Demographic Info in Baltimore City](Trees in Baltimore/README.md)
+[<img src="Project 3/BIN/baltimorebyrace.png?raw=true"/>](Trees in Baltimore/README.md)
 
 ---
 [Trees in Alaska](Project 4/README.md) 
