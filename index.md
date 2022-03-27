@@ -5,9 +5,10 @@
 
 ### Project Portfolio
 
-[GIS Project 1](Project1_486/README.md)
+[GIS Project 1: Part 1](Project1_486/README.md)
 [<img src="Project1_486/BIN/ezgif.com-gif-maker.gif?raw=true"/>](Project1_486/README.md)
 
+GIS Project 1: Part 2
 
 [Street Flooding in Baltimore City](Project 1/README.md)
 [<img src="Project 1/BIN/311 flooding reports by neighborhood.pdf?raw=true"/>](Project 1/README.md)
