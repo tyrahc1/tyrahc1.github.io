@@ -6,7 +6,7 @@
 ### Project Portfolio
 
 [Flooded Street Rreports Over Time (2017-2021)](Project1_486/README.md)
-[<img src="Project1_486/BIN/ezgif.com-gif-maker.gif?raw=true"/>](Project1_486/README.md)
+[<img src="Project1_486/BIN/correctedlegend.gif?raw=true"/>](Project1_486/README.md)
 
 ---
 [Racial Demographics and Homeownership](Project1_486/README2.md)
