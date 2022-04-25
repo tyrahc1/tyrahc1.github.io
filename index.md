@@ -6,32 +6,32 @@
 ### Project Portfolio
 
 
-[Baltimore City Flooded Street Reports Over Time (2017-2021)](Project1_486/README.md)
-[<img src="Project1_486/BIN/correctedlegend.gif?raw=true"/>](Project1_486/README.md)
+[Baltimore City Flooded Street Reports Over Time (2017-2021)](Project1_486/index.md)
+[<img src="Project1_486/BIN/correctedlegend.gif?raw=true"/>](Project1_486/index.md)
 
 ---
-[Racial Demographics and Homeownership](Project1_486/README2.md)
-[<img src="Project1_486/BIN/blackownership.png?raw=true"/>](Project1_486/README2.md)
+[Racial Demographics and Homeownership](Project1_486/index.md)
+[<img src="Project1_486/BIN/blackownership.png?raw=true"/>](Project1_486/index.md)
 
 ---
 [Baltimore Data and Tree Relationship](Trees in Baltimore/README.md)
-[<img src="Trees in Baltimore/BIN/treesperm.png?raw=true"/>](Trees in Baltimore/README.md)
+[<img src="Trees in Baltimore/BIN/treesperm.png?raw=true"/>](Trees in Baltimore/index.md)
 
 ---
-[Street Flooding in Baltimore City](Project 1/README.md)
-[<img src="Project 1/BIN/311 flooding reports by neighborhood.pdf?raw=true"/>](Project 1/README.md)
+[Street Flooding in Baltimore City](Project 1/index.md)
+[<img src="Project 1/BIN/311 flooding reports by neighborhood.pdf?raw=true"/>](Project 1/index.md)
 
 ---
-[Locating Clogged Storm Drains](Project 2/README.md) 
-[<img src="Project 2/BIN/2020stormdrains.pdf?raw=true"/>](Project 2/README.md)
+[Locating Clogged Storm Drains](Project 2/index.md) 
+[<img src="Project 2/BIN/2020stormdrains.pdf?raw=true"/>](Project 2/index.md)
 
 ---
-[Race and Demographic Info in Baltimore City](Trees in Baltimore/README.md)
-[<img src="Project 3/BIN/baltimorebyrace.png?raw=true"/>](Trees in Baltimore/README.md)
+[Race and Demographic Info in Baltimore City](Trees in Baltimore/index.md)
+[<img src="Project 3/BIN/baltimorebyrace.png?raw=true"/>](Trees in Baltimore/index.md)
 
 ---
-[Trees in Alaska](Project 4/README.md) 
-[<img src="Project 4/BIN/alaska trees.png?raw=true"/>](Project 4/README.md)
+[Trees in Alaska](Project 4/index.md) 
+[<img src="Project 4/BIN/alaska trees.png?raw=true"/>](Project 4/index.md)
 
 ---
 
