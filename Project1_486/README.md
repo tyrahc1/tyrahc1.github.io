@@ -10,7 +10,7 @@ I looked up the 311 Customer Service Requests and filtered the results by SRType
 There were a few necessary transformations that needed to be done to the data in order to use it how I wanted to. First, I filtered out the data entries that did not have a corresponding location provided by latitude and longitude. I used st_as_if in order to assign the data to a spatial dataset. Once the data was assigned spatially, I did a spatial join so that I could show where the reports were in relation to the neighborhood data set (which was downloaded from Eli Pousson’s GitHub site: https://github.com/elipousson/mapbaltimore/tree/main/data). Before completing this join, I had to make sure that the neighborhood layer was in the same coordinate reference system as the rest of the data that I had planned to use. I did the spatial join between the “flood_20**_spatial” (where ** is the year used) and “neighboods_projected” data frames. I then wanted to take a count of the reports per neighborhood and did so by using the count(as_tibble) function in R. I did this for each year. 
 
 # Analysis That Will Be Performed On Datasets
-What did you learn? What is the **analysis** you'll be performing on your data sets? You may need to explain some of your R code not explained above.
+The following [code](Project1_486/index.md) was used to produce this information.
 
 # Results; What Outputs Are Being Created And How Are They Related To Our Class?
 I created a series of 4 maps for 2017, 2018, 2019, and 2020 to show where the flooded reports were. I then used that information to create a GIF.
