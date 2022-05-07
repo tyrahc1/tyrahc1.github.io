@@ -1,5 +1,5 @@
 # Finding A Relationship Between Trees and Other Census Data in Baltimore City
-This map was created in R Studio and is representative of the number of trees planted and neighborhoods.
+This map was created in R Studio and is representative of the number of trees planted and neighborhoods within Baltimore City.
 
 # Data
 The data used for this was provided by a given [geojson file](Trees in Baltimore/data) from class about trees in Baltimore City and the get_acs function in R.
