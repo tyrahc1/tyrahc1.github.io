@@ -164,11 +164,13 @@ tmap_save(filename = "sept.png", tm=sept_rain,width=4,height=4,units="in",scale=
 septgif <- image_read("sept.png")
 
 #this is putting each file together
+
 img <- c(aprilgif, maygif, junegif, julygif, auggif, septgif)
 
 image_append(image_scale(img, "x300"))
 
-#this is actually creating the gif
+## this is actually creating the gif
+
 my.animation<-image_animate(image_scale(img, "400x400"), fps = 1, dispose = "previous")
 image_write(my.animation, "rainperpixel.gif")
 ```
