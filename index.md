@@ -6,7 +6,7 @@
 ### Project Portfolio
 
 [Change Over Time, April to September (2019)](Rainfall/index)
-[<img src="Rainfall/Bin/rainperpixel.gif?raw=true">](Rainfall/index)
+[<img src="Rainfall/Bin/rainperpixel2.gif?raw=true">](Rainfall/index)
 
 [Heavy Downpours and Sewage Overflows](Final Project/index)
 [<img src="Final Project/BIN/1600px-Terrytown_LA_Deluge_July_2016_02.jpg?raw=true"/>
