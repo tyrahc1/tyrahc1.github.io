@@ -9,7 +9,7 @@
 [<img src="Rainfall/Bin/rainperpixel2.gif?raw=true">](Rainfall/index)
 
 [Heavy Downpours and Sewage Overflows](SewageOverflows/README.md)
-[<img src="SewageOverflows/BIN/reports_persqmi.png?raw=true"/>]SewageOverflows/README.md)
+[<img src="SewageOverflows/BIN/reports_persqmi.png?raw=true"/>](SewageOverflows/README.md)
 
 [Baltimore City Flooded Street Reports Over Time (2017-2021)](Project1_486/index)
 [<img src="Project1_486/BIN/correctedlegend.gif?raw=true"/>](Project1_486/index)
