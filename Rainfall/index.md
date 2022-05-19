@@ -71,7 +71,7 @@ totalrain_plot <- tm_shape(rain_sf) +
 totalrain_plot
 ```
 
-##### This is breaking down the rain data by corresponding month
+## This is breaking down the rain data by corresponding month
 After relating the date, time step, and grid number to a geographic location via lat long, it was time to sort the data by month. After this, I grouped by the columns I was most interested in (gridnum, lat,long) and then took the average across all time steps and days to get an idea of how rain was distributed in each area of Baltimore City.
 
 ```{r}
