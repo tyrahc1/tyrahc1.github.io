@@ -28,4 +28,5 @@ The map shows how population and submitted reports are correlated. Would we expe
 <img src="Final Project/BIN/reportsandrain.png?raw=true">
 
 
-See full coding and other graphs [here](Final Project/raindata_finalknit.pdf). 
+See full coding and other graphs [here] (Final Project/raindata_finalknit.pdf). 
+
