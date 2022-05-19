@@ -144,7 +144,7 @@ sept_rain
 
 ## This is to show total rain (mm) over time from April to September 2019
 
-```{r message=FALSE, warning=FALSE}
+```{r}
 tmap_save(filename = "april.png", tm=april_rain,width=4,height=4,units="in",scale=1)
 aprilgif <- image_read("april.png")
 
@@ -168,5 +168,6 @@ img <- c(aprilgif, maygif, junegif, julygif, auggif, septgif)
 image_append(image_scale(img, "x300"))
 
 my.animation <-image_animate(image_scale(img, "400x400"), fps = 1, dispose = "previous")
-image_write(my.animation, "rainperpixel.gif")
+image_write(my.animation, "rainperpixel.gif") 
+
 ```
