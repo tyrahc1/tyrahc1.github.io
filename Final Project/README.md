@@ -1,16 +1,31 @@
 # Final Project: 
 
 # Sewage Overflows and the Relation to Heavy Rainfall Events
-The objective of this analysis is to 
+**Project description:**  I wanted to see if there was a correlation between the number of sewage overflow reports and the amount of rainfall in Baltimore City. 
 
 # Data
-I used data for ["311 Customer Service Requests 2019"](https://data.baltimorecity.gov/datasets/311-customer-service-requests-2019/explore) provided by OpenBaltimore.
+I used data from the [Maryland Department of the Environment ]([url](https://mde.maryland.gov/programs/water/compliance/pages/reportedseweroverflow.aspx)) to find sewage overflow reports for Baltimore City, specifically from the year 2019. 
 
-# Processing & Transformations
-What processes and transformations were needed for the analysis
 
-# Analysis
-What did you learn? What is the **analysis** you'll be performing on your data sets? You may need to explain some of your R code not explained above.
+### 1. Graph showing the income and sewage reports. There is this idea that lower income communities do not have the resources or care to reach out to local municipalities for assistance because they feel like they will be ignored and overlooked more so than the more affluent communities that the city allocates a lot of resources to.
 
-# Results
-What **outputs** will you be creating and how are they directly connected to the class? Explain your bin folder.
+The map shows how income and submitted reports are correlated. 
+
+image
+<img src="/lab_morans/receive_snap.png?raw=true"/>
+
+### 2. Graph showing how populatin relates to the number of sewage reports
+
+The map shows how population and submitted reports are correlated. Would we expect for more populated areas to have more reports?
+
+image
+
+### 3. Graph showing how rainfall distrubtion compares to the number of submitted sewage overflow reports in 2019.
+
+The map shows how population and submitted reports are correlated. Would we expect for more populated areas to have more reports?
+
+image
+
+
+See full coding and other graphs. 
+[Calculating Moran's I Lab](https://mfairfieldpeak.github.io/lab_morans/week9_moransi_writeup.pdf)
