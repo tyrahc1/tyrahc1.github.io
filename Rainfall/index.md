@@ -4,6 +4,8 @@ title: "rainovertime_2019"
 output: pdf_document
 ---
 
+## Loading the necessary library packages needed.
+
 ```{r}
 library(dplyr)
 library(tmap)
@@ -30,7 +32,6 @@ pixels_latlong <- read_csv("/Users/Tyrah/adv GIS classwork/finalproject_687/Balt
 ```
 
 ```{r}
-
 rainfall_data_transposed <- rainfall_data %>% pivot_longer(cols = 3:244, names_to = "gridnum", values_to = "rainmm")
 
 #had to change this column to be of character type (original a double), so that it could join with the gridnum column in another dataframe
@@ -63,6 +64,7 @@ totalrain_plot
 ```
 
 ## This is breaking down the rain data by corresponding month
+
 ```{r}
 #https://stackoverflow.com/questions/28335715/r-how-to-filter-subset-a-sequence-of-dates
 #Create date object
@@ -141,7 +143,9 @@ sept_rain
 ```
 
 ## This is to show total rain (mm) over time from April to September 2019
+
 ```{r message=FALSE, warning=FALSE}
+
 #Animating the rain information per month
 tmap_save(filename = "april.png", tm=april_rain,width=4,height=4,units="in",scale=1)
 aprilgif <- image_read("april.png")
