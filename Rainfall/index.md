@@ -3,8 +3,14 @@ name: Tyrah Cobb-Davis
 title: "rainovertime_2019"
 output: pdf_document
 ---
+# Project: Baltimore City Rainfall Data Visualization (2019)
+**Project Description**: 
+This analysis aimed to simply get a better understanding of how to use the rainfall data before diving deeper into future analyses. It is important to become familiar with general trends and such before trying to relate it to other things such as physical and social factors.
+
 
 ## Loading the necessary library packages needed.
+
+We load in the various libraries needed to run the code. These packages allow one to read csv files, create maps, manipulate data, etc.
 
 ```{r}
 library(dplyr)
@@ -30,6 +36,8 @@ pixels_latlong <- read_csv("/Users/Tyrah/adv GIS classwork/finalproject_687/Balt
 # pixel_location <- st_as_sf(pixels_latlong, coords = c("longitude", "latitude"),  crs = 4326)
 # plot(pixel_location$geometry)
 ```
+
+This allows one to work with a longer dataset, rather than a wide one. This made it easier to then join the grid number to the corresponding lat/long values. 
 
 ```{r}
 rainfall_data_transposed <- rainfall_data %>% pivot_longer(cols = 3:244, names_to = "gridnum", values_to = "rainmm")
@@ -63,7 +71,8 @@ totalrain_plot <- tm_shape(rain_sf) +
 totalrain_plot
 ```
 
-## This is breaking down the rain data by corresponding month
+##### This is breaking down the rain data by corresponding month
+After relating the date, time step, and grid number to a geographic location via lat long, it was time to sort the data by month. After this, I grouped by the columns I was most interested in (gridnum, lat,long) and then took the average across all time steps and days to get an idea of how rain was distributed in each area of Baltimore City.
 
 ```{r}
 #https://stackoverflow.com/questions/28335715/r-how-to-filter-subset-a-sequence-of-dates
@@ -143,6 +152,7 @@ sept_rain
 ```
 
 ## This is to show total rain (mm) over time from April to September 2019
+This is simply just creating a series of maps for each month and saving them as an image file so that they can be combined together to make a gif to show change over time.
 
 ```{r}
 tmap_save(filename = "april.png", tm=april_rain,width=4,height=4,units="in",scale=1)
