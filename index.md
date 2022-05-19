@@ -23,6 +23,7 @@
 [<img src="Trees in Baltimore/BIN/treesperm.png?raw=true"/>](Trees in Baltimore/index)
 
 ---
+
 [Street Flooding in Baltimore City](Project 1/index)
 [<img src="Project 1/BIN/311 flooding reports by neighborhood.pdf?raw=true"/>](Project 1/index)
 
