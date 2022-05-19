@@ -28,7 +28,7 @@ pixels_latlong <- read_csv("/Users/Tyrah/adv GIS classwork/finalproject_687/Balt
 # plot(pixel_location$geometry)
 ```
 
-```{r message=FALSE, warning=FALSE}
+```{r}
 
 rainfall_data_transposed <- rainfall_data %>% pivot_longer(cols = 3:244, names_to = "gridnum", values_to = "rainmm")
 
@@ -168,4 +168,5 @@ image_append(image_scale(img, "x300"))
 #this is actually creating the gif
 my.animation<-image_animate(image_scale(img, "400x400"), fps = 1, dispose = "previous")
 image_write(my.animation, "rainperpixel.gif")
+
 ```
