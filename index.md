@@ -5,7 +5,7 @@
 
 ### Project Portfolio
 
-[Change Over Time, April to September (2019)](Rainfall/README)
+[Change Over Time, April to September (2019)](Rainfall/README.md)
 [<img src="Rainfall/Bin/rainperpixel2.gif?raw=true">](Rainfall/index)
 
 [Heavy Downpours and Sewage Overflows](Final Project/index)
