@@ -1,5 +1,7 @@
 # Sewage Overflows and the Relation to Heavy Rainfall Events
 
+<img src= "/Final Project/BIN/1600px-Terrytown_LA_Deluge_July_2016_02.jpg">
+
 **Project description:**  I wanted to see if there was a correlation between the number of sewage overflow reports and the amount of rainfall in Baltimore City. 
 
 ## Data
