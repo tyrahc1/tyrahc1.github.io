@@ -2,7 +2,11 @@
 
 <img src= "/Final Project/BIN/1600px-Terrytown_LA_Deluge_July_2016_02.jpg">
 
-**Project description:**  I wanted to see if there was a correlation between the number of sewage overflow reports and the amount of rainfall in Baltimore City. 
+**Project description:**  
+
+Climate change is a continued growing area of concern for many people. One common example relates to increased and more frequent rain events. My research focuses on exploring the question of where flooding events are likely to occur in the Baltimore area by assessing 311 reports, rainfall data, and the urban drainage system. Baltimore City has a separate sewer system, meaning that rainwater and sewage water are diverted using different pipes. In a combined sewer system, the rainwater and sewage are collected together. A sewage overflow is when there is a lot of rainwater that enters the sewer lines, causing an overflow of polluted waters into local water systems. According to Szeląg et al (2021), these sewer floods are happening more often. The amount of sewage discharged into these local water sources can be very high. For example, it was reported by the Baltimore City Department of Public Works that 45 million gallons of mixed sewage and rainwater occurred between July 21 and July 25 (DPW source). In my final project I hope to make a connection between known reports of sewage overflows and instances of rainfall. Although my primary focus is not on water quality, it is important to understand the relationship between the two because more sewage overflows means that there is a greater chance of pollution entering the stream and river system.
+
+I wanted to see if there was a correlation between the number of sewage overflow reports and the amount of rainfall in Baltimore City. 
 
 ## Data
 I used data from the [Maryland Department of the Environment ]([url](https://mde.maryland.gov/programs/water/compliance/pages/reportedseweroverflow.aspx)) to find sewage overflow reports for Baltimore City, specifically from the year 2019. 
