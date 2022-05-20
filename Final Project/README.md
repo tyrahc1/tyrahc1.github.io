@@ -36,7 +36,7 @@ The map shows how population and submitted reports are correlated. Would we expe
 
 Showing how rainfall distrubtion compares to the number of submitted sewage overflow reports in 2019.
 The map shows how population and submitted reports are correlated. Would we expect for more populated areas to have more reports?
-<img src="/Final Project/BIN/reportsandrain.png?raw=true">
+<img src="/Final Project/BIN/rainreports2.png?raw=true">
 
 
 See full coding and other graphs [here](/Final Project/final_pdfknit.pdf)
